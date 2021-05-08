@@ -5,4 +5,17 @@
 3. https://realpython.com/knn-python/
 4. https://www.mathsisfun.com/algebra/distance-2-points.html
 
+    Date: 08 -05 - 2021
+    ## Predicting Best value of K
+    1. https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/
+
+    ## Computing train score and test score
+    1. https://medium.com/analytics-vidhya/k-neighbors-regression-analysis-in-python-61532d56d8e4
+
+    ## Predicting House Price Dataset
+    1. https://www.kaggle.com/burhanykiyakoglu/predicting-house-prices
+    
+
+
+
            
